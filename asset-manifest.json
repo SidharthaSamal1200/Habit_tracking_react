@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Habit_tracking_react/static/css/main.ee1b014a.css",
+    "main.js": "/Habit_tracking_react/static/js/main.fd8772b3.js",
+    "static/media/welcomePng.png": "/Habit_tracking_react/static/media/welcomePng.632e7432da1ee5a08c21.png",
+    "static/media/running.png": "/Habit_tracking_react/static/media/running.9002d4bdda767cb4a12f.png",
+    "static/media/joystick.png": "/Habit_tracking_react/static/media/joystick.f8eba3a893fbb421cc50.png",
+    "static/media/working.png": "/Habit_tracking_react/static/media/working.a3faa90185a7e441bc50.png",
+    "static/media/sleep.png": "/Habit_tracking_react/static/media/sleep.47fc6daa1fe9b5c406ee.png",
+    "static/media/healthcare.png": "/Habit_tracking_react/static/media/healthcare.106172eb1d57cfd2a396.png",
+    "index.html": "/Habit_tracking_react/index.html",
+    "main.ee1b014a.css.map": "/Habit_tracking_react/static/css/main.ee1b014a.css.map",
+    "main.fd8772b3.js.map": "/Habit_tracking_react/static/js/main.fd8772b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1b014a.css",
+    "static/js/main.fd8772b3.js"
+  ]
+}
